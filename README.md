@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Computer Science | Uganda Christian University Alumni 🧑‍🎓
 - 🌐 &nbsp; HTML | CSS | Javascript | ReactJs | Flutter
-- 💻 &nbsp; Flutter | Dart | Provider | Bloc | Redux | ExpressJs
+- 💻 &nbsp; Flutter | Dart | Provider | Bloc | React & Redux | ExpressJs
 - 🛢 &nbsp; Firebase | sqflite | hive | Shared Preferences | MongoDb
 - 🔧 &nbsp; Git | GitHub | Figma | Slack
 

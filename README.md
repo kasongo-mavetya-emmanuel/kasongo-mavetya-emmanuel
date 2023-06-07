@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🎓 &nbsp; Computer Science | Uganda Christian University Alumni 🧑‍🎓
-- 🌐 &nbsp; HTML | CSS | Javascript | ReactJs |Flutter
+- 🌐 &nbsp; HTML | CSS | Javascript | ReactJs | Flutter
 - 💻 &nbsp; Flutter | Dart | Provider | Bloc | Redux | ExpressJs
 - 🛢 &nbsp; Firebase | sqflite | hive | Shared Preferences | MongoDb
 - 🔧 &nbsp; Git | GitHub | Figma | Slack

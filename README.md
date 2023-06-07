@@ -8,7 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp;  Dart | Javascript
+- 🎓 &nbsp; Computer Science | Uganda Christian University Alumni 🧑‍🎓
+- 🌐 &nbsp; Dart | Javascript
 - 💻 &nbsp; Flutter | ReactJs | BloC | Provider | Redux
 - 🛢 &nbsp; Firebase | sqflite | hive | Shared Preferences | mongoDb
 - 🔧 &nbsp; Git | GitHub | figma | slack

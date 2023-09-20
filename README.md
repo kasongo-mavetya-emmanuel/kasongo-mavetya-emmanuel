@@ -3,7 +3,7 @@
 ## I am KASONGO MAVETYA EMMANUEL
 
 
-- 💻 &nbsp; Front-End Developer
+- 💻 &nbsp; Software Engineer
 - 💼 &nbsp; TecX 🥇 | CRES 🔥 | Techy Ahead 🤩
 
 <h3>🛠 Tech Stack</h3>
